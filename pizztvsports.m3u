@@ -3,27 +3,27 @@
 https://www.linkpicture.com/q/4FD3F430-7C03-460B-87D0-6C1277B6F43D.jpeg
 #EXTINF:-1,DSTV: OMOHAK TV WATCH MORE HD
 https://t.me/omohaktv
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 1",SPORTS 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS1
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 2",SPORTS 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS2
 http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 3",SPORTS  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS3 
 http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 4",SPORTS  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS4
 http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 5",SPORTS  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS5 
 http://195.154.200.168:8004/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 6",SPORTS  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS6 
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 7",SPORTS  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS6 
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 1",SPORTS 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8 copied
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 1",SPORTS 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 2",SPORTS  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 3",SPORTS 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1,group-title=SPORTS Abu Dhabi Sports 4 (1080p) [Geo-blocked] Arabic;English 
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
