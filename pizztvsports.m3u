@@ -25,13 +25,13 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/71E909CA-B835-4491-AD8B-B9C5345083F4.png" group-title="SPORTS",SPORTS
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/71E909CA-B835-4491-AD8B-B9C5345083F4.png" group-title="SPORTS",SPORTS
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1,group-title=SPORTS Adventure Sports Network (720p) United States English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/71E909CA-B835-4491-AD8B-B9C5345083F4.png" group-title="SPORTS",SPORTS 
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1,group-title=SPORTS Adventure Sports TV (360p) [Not 24/7] United States English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/71E909CA-B835-4491-AD8B-B9C5345083F4.png" group-title="SPORTS",SPORTS 
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1,group-title=SPORTS Alfa Sport (1080p) [Not 24/7] Cyprus Greek 
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
