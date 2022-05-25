@@ -15,7 +15,7 @@ http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
 http://195.154.200.168:8004/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS6 
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS6 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",SPORTS SS7 
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8 copied
@@ -25,9 +25,9 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SPORTS",ABU DHABI
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1,group-title=SPORTS Abu Dhabi Sports 4 (1080p) [Geo-blocked] Arabic;English 
+#EXTINF:-1 group-title="SPORTS",
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1,group-title=SPORTS ACC Network (720p) United States English 
+#EXTINF:-1 group-title="SPORTS",
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1,group-title=SPORTS Adventure Sports Network (720p) United States English 
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
